@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/SxMY2n2S/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Adnan Rahman Rafi</h1>
+<h1 align="center">Hi 👋, I'm Adnan Rafi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 ---
