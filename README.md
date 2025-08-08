@@ -53,7 +53,7 @@ Currently, I’m expanding my skills and experimenting with new technologies in 
   <a href="https://x.com/RafiBlack666" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://wa.me/+8801632960752" target="_blank">
+  <a href="https://wa.me/01632960752" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
