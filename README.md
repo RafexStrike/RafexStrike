@@ -62,10 +62,10 @@ Currently, I’m expanding my skills and experimenting with new technologies in 
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanRahmanRafi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanRahmanRafi&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanRafi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanRafi&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRahmanRafi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRafi&theme=tokyonight" alt="GitHub Streak" />
 </p>
