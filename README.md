@@ -44,16 +44,16 @@ Currently, I’m expanding my skills and experimenting with new technologies in 
 
 ## 🌍 Connect with Me
 <p>
-  <a href="https://github.com/AdnanRahmanRafi" target="_blank">
+  <a href="https://github.com/RafexStrike" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/adnan-rafi-39a81727b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+  <a href="https://x.com/RafiBlack666" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://wa.me/YOURWHATSAPPNUMBER" target="_blank">
+  <a href="https://wa.me/+8801632960752" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
